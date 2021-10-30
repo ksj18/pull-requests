@@ -1,3 +1,5 @@
 cc=g++
 
-deploy:
+
+all: class-intro
+
