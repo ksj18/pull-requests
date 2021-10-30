@@ -1,1 +1,3 @@
+cc=g++
+
 deploy:
